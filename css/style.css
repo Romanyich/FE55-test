@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: dorder-box;
+}
+
+section.social {
+    height: 200px;
+    background-color: bisque;
+}
